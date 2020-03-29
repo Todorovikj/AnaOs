@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a475a9f-13bb-44d1-a379-8657475fdcde" name="Default Changelist" comment="" />
+    <list default="true" id="9a475a9f-13bb-44d1-a379-8657475fdcde" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileScannerTest/folder2/some folder/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountSeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AnaOS/testoutput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AnaOS/testoutput.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZkX7tLOJLaojyZfFNCXXldTOkp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +36,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -32,9 +48,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReadAndWriteFiles">
-    <configuration name="FileClassWorkAround" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileClassWorkAround" />
+  <component name="RunManager" selected="Application.CountSeven">
+    <configuration name="CountSeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountSeven" />
+      <module name="AnaOS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileScanner" />
       <module name="AnaOS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,11 +77,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Threads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Threads" />
+      <module name="AnaOS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountSeven" />
+        <item itemvalue="Application.FileScanner" />
+        <item itemvalue="Application.Threads" />
         <item itemvalue="Application.ReadAndWriteFiles" />
         <item itemvalue="Application.ReadFromFileAndInputExample" />
-        <item itemvalue="Application.FileClassWorkAround" />
       </list>
     </recent_temporary>
   </component>
@@ -73,29 +105,39 @@
       <option name="presentableId" value="Default" />
       <updated>1585383901166</updated>
       <workItem from="1585383905298" duration="9333000" />
+      <workItem from="1585394799094" duration="28000" />
+      <workItem from="1585413946143" duration="10000" />
+      <workItem from="1585465619895" duration="7153000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="322" key="GridCell.Tab.0.bottom" timestamp="1585394517813">
+    <state x="768" y="238" width="374" height="573" key="#com.intellij.ide.util.MemberChooser" timestamp="1585468754267">
       <screen x="0" y="28" width="1920" height="997" />
     </state>
-    <state width="1874" height="322" key="GridCell.Tab.0.bottom/0.28.1920.997@0.28.1920.997" timestamp="1585394517813" />
-    <state width="1874" height="322" key="GridCell.Tab.0.center" timestamp="1585394517813">
+    <state x="768" y="238" width="374" height="573" key="#com.intellij.ide.util.MemberChooser/0.28.1920.997@0.28.1920.997" timestamp="1585468754267" />
+    <state width="1874" height="311" key="GridCell.Tab.0.bottom" timestamp="1585475328989">
       <screen x="0" y="28" width="1920" height="997" />
     </state>
-    <state width="1874" height="322" key="GridCell.Tab.0.center/0.28.1920.997@0.28.1920.997" timestamp="1585394517813" />
-    <state width="1874" height="322" key="GridCell.Tab.0.left" timestamp="1585394517811">
+    <state width="1874" height="311" key="GridCell.Tab.0.bottom/0.28.1920.997@0.28.1920.997" timestamp="1585475328989" />
+    <state width="1874" height="311" key="GridCell.Tab.0.center" timestamp="1585475328989">
       <screen x="0" y="28" width="1920" height="997" />
     </state>
-    <state width="1874" height="322" key="GridCell.Tab.0.left/0.28.1920.997@0.28.1920.997" timestamp="1585394517811" />
-    <state width="1874" height="322" key="GridCell.Tab.0.right" timestamp="1585394517813">
+    <state width="1874" height="311" key="GridCell.Tab.0.center/0.28.1920.997@0.28.1920.997" timestamp="1585475328989" />
+    <state width="1874" height="311" key="GridCell.Tab.0.left" timestamp="1585475328989">
       <screen x="0" y="28" width="1920" height="997" />
     </state>
-    <state width="1874" height="322" key="GridCell.Tab.0.right/0.28.1920.997@0.28.1920.997" timestamp="1585394517813" />
+    <state width="1874" height="311" key="GridCell.Tab.0.left/0.28.1920.997@0.28.1920.997" timestamp="1585475328989" />
+    <state width="1874" height="311" key="GridCell.Tab.0.right" timestamp="1585475328989">
+      <screen x="0" y="28" width="1920" height="997" />
+    </state>
+    <state width="1874" height="311" key="GridCell.Tab.0.right/0.28.1920.997@0.28.1920.997" timestamp="1585475328989" />
     <state width="1874" height="322" key="GridCell.Tab.1.bottom" timestamp="1585394517816">
       <screen x="0" y="28" width="1920" height="997" />
     </state>
@@ -112,10 +154,14 @@
       <screen x="0" y="28" width="1920" height="997" />
     </state>
     <state width="1874" height="322" key="GridCell.Tab.1.right/0.28.1920.997@0.28.1920.997" timestamp="1585394517816" />
-    <state x="449" y="161" key="SettingsEditor" timestamp="1585384028306">
+    <state x="449" y="161" key="SettingsEditor" timestamp="1585467165970">
       <screen x="0" y="28" width="1920" height="997" />
     </state>
-    <state x="449" y="161" key="SettingsEditor/0.28.1920.997@0.28.1920.997" timestamp="1585384028306" />
+    <state x="449" y="161" key="SettingsEditor/0.28.1920.997@0.28.1920.997" timestamp="1585467165970" />
+    <state x="616" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1585465785334">
+      <screen x="0" y="28" width="1920" height="997" />
+    </state>
+    <state x="616" y="354" key="com.intellij.ide.util.TipDialog/0.28.1920.997@0.28.1920.997" timestamp="1585465785334" />
     <state x="623" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1585385356586">
       <screen x="0" y="28" width="1920" height="997" />
     </state>

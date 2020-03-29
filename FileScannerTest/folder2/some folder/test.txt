@@ -1,0 +1,68 @@
+upstream {{ proj_name }} {
+server unix:{{ proj_path }}/gunicorn.sock fail_timeout=0;
+}
+server {
+listen 80;
+{% if tls_enabled %}
+listen 443 ssl;
+{% endif %}
+server_name {{ domains|join(", ") }};
+client_max_body_size 10M;
+keepalive_timeout
+15;
+{% if tls_enabled %}
+ssl_certificate
+conf/{{ proj_name }}.crt;
+ssl_certificate_key conf/{{ proj_name }}.key;
+ssl_session_cache
+shared:SSL:10m;
+ssl_session_timeout 10m;
+# ssl_ciphers entry is too long to show in this book
+# See https://github.com/ansiblebook/ansiblebook
+#
+ch06/playbooks/templates/nginx.conf.j2
+ssl_prefer_server_ciphers on;
+{% endif %}
+location / {
+proxy_redirect
+proxy_set_header
+proxy_set_header
+proxy_set_header
+proxy_set_header
+proxy_pass
+}
+off;
+Host
+X-Real-IP
+X-Forwarded-For
+X-Forwarded-Protocol
+http://{{ proj_name }};
+$host;
+$remote_addr;
+$proxy_add_x_forwarded_for;
+$scheme;
+location /static/ {
+root
+{{ proj_path }};
+access_log
+off;
+log_not_found
+off;
+}
+location /robots.txt {
+root
+{{ proj_path }}/static;
+access_log
+off;
+log_not_found
+off;
+}
+location /favicon.ico {
+root
+{{ proj_path }}/static/img;
+access_log
+off;
+log_not_found
+off;
+}
+}
