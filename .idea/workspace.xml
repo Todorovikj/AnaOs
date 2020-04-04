@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a475a9f-13bb-44d1-a379-8657475fdcde" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileScannerTest/folder2/some folder/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountSeven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileClassWorkAround.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileScanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadAndWriteFiles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadFromFileAndInputExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/copiedTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testoutput.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +113,7 @@
       <workItem from="1585413946143" duration="10000" />
       <workItem from="1585465619895" duration="7805000" />
       <workItem from="1585651638141" duration="19000" />
-      <workItem from="1585983930625" duration="639000" />
+      <workItem from="1585983930625" duration="1261000" />
     </task>
     <task id="LOCAL-00001" summary="Threads and a bit of locks.">
       <created>1585475445999</created>
