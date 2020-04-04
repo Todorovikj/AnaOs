@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a475a9f-13bb-44d1-a379-8657475fdcde" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TestReferencePrimitive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AnaOS/CountSeven$Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AnaOS/CountSeven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AnaOS/FileClassWorkAround$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AnaOS/FileClassWorkAround.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AnaOS/FileScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AnaOS/ReadAndWriteFiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AnaOS/ReadFromFileAndInputExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AnaOS/SumFrom500To1000.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AnaOS/SumTo500.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AnaOS/Threads.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AnaOS/copiedTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AnaOS/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AnaOS/testoutput.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +57,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountSeven">
+  <component name="RunManager" selected="Application.TestReferencePrimitive">
     <configuration name="CountSeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountSeven" />
       <module name="AnaOS" />
@@ -65,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFromFileAndInputExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReadFromFileAndInputExample" />
+    <configuration name="TestReferencePrimitive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestReferencePrimitive" />
       <module name="AnaOS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestReferencePrimitive" />
         <item itemvalue="Application.CountSeven" />
         <item itemvalue="Application.FileScanner" />
         <item itemvalue="Application.Threads" />
         <item itemvalue="Application.ReadAndWriteFiles" />
-        <item itemvalue="Application.ReadFromFileAndInputExample" />
       </list>
     </recent_temporary>
   </component>
@@ -145,22 +159,22 @@
       <screen x="0" y="28" width="1920" height="997" />
     </state>
     <state x="743" y="284" width="424" height="480" key="FileChooserDialogImpl/0.28.1920.997@0.28.1920.997" timestamp="1585651650388" />
-    <state width="1874" height="311" key="GridCell.Tab.0.bottom" timestamp="1585476098042">
+    <state width="1874" height="311" key="GridCell.Tab.0.bottom" timestamp="1585987642379">
       <screen x="0" y="28" width="1920" height="997" />
     </state>
-    <state width="1874" height="311" key="GridCell.Tab.0.bottom/0.28.1920.997@0.28.1920.997" timestamp="1585476098042" />
-    <state width="1874" height="311" key="GridCell.Tab.0.center" timestamp="1585476098042">
+    <state width="1874" height="311" key="GridCell.Tab.0.bottom/0.28.1920.997@0.28.1920.997" timestamp="1585987642379" />
+    <state width="1874" height="311" key="GridCell.Tab.0.center" timestamp="1585987642379">
       <screen x="0" y="28" width="1920" height="997" />
     </state>
-    <state width="1874" height="311" key="GridCell.Tab.0.center/0.28.1920.997@0.28.1920.997" timestamp="1585476098042" />
-    <state width="1874" height="311" key="GridCell.Tab.0.left" timestamp="1585476098042">
+    <state width="1874" height="311" key="GridCell.Tab.0.center/0.28.1920.997@0.28.1920.997" timestamp="1585987642379" />
+    <state width="1874" height="311" key="GridCell.Tab.0.left" timestamp="1585987642379">
       <screen x="0" y="28" width="1920" height="997" />
     </state>
-    <state width="1874" height="311" key="GridCell.Tab.0.left/0.28.1920.997@0.28.1920.997" timestamp="1585476098042" />
-    <state width="1874" height="311" key="GridCell.Tab.0.right" timestamp="1585476098042">
+    <state width="1874" height="311" key="GridCell.Tab.0.left/0.28.1920.997@0.28.1920.997" timestamp="1585987642379" />
+    <state width="1874" height="311" key="GridCell.Tab.0.right" timestamp="1585987642379">
       <screen x="0" y="28" width="1920" height="997" />
     </state>
-    <state width="1874" height="311" key="GridCell.Tab.0.right/0.28.1920.997@0.28.1920.997" timestamp="1585476098042" />
+    <state width="1874" height="311" key="GridCell.Tab.0.right/0.28.1920.997@0.28.1920.997" timestamp="1585987642379" />
     <state width="1874" height="322" key="GridCell.Tab.1.bottom" timestamp="1585394517816">
       <screen x="0" y="28" width="1920" height="997" />
     </state>
@@ -189,9 +203,9 @@
       <screen x="0" y="28" width="1920" height="997" />
     </state>
     <state x="616" y="354" key="com.intellij.ide.util.TipDialog/0.28.1920.997@0.28.1920.997" timestamp="1585651638575" />
-    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1585986373549">
+    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1585987433944">
       <screen x="0" y="28" width="1920" height="997" />
     </state>
-    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup/0.28.1920.997@0.28.1920.997" timestamp="1585986373549" />
+    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup/0.28.1920.997@0.28.1920.997" timestamp="1585987433944" />
   </component>
 </project>
